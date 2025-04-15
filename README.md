@@ -42,8 +42,8 @@ Learn how to assemble and troubleshoot the circuit in the **[full video guide](h
 
 ## 📸 Project Images
 
-![PCB Design](preview_images/pcb-render.png)
-![Assembled Board](preview_images/assembled-board.jpg)
+![PCB Design](preview_images/circuit_schematic.jpg)
+![Assembled Board](preview_images/pcb_3D.jpg)
 
 
 ## 💬 Questions or Feedback?
