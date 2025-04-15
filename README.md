@@ -15,11 +15,19 @@
 ✔ **KiCad 6/7 compatible** design files  
 ✔ **Step-by-step YouTube tutorial** ([Watch Here](https://youtu.be/TuUUNz7IGRk))  
 
-## 📂 Repository Contents  
-- `/Schematic` - Circuit diagram (.sch)  
-- `/PCB` - Printed circuit board design (.kicad_pcb)  
-- `/BOM` - Bill of Materials (components list)  
-- `/Gerber` - Ready-for-production Gerber files  
+## 📁 Files Included
+- 📐 Circuit schematic file (KiCad)
+- 🧩 PCB layout
+- 📸 Images and renders of the circuit
+- 📄 Bill of materials (components list)
+
+
+## 📦 Requirements
+To complete this project, you’ll need:
+- CXA1019S IC
+- Basic electronic components (resistors, capacitors, etc.)
+- Soldering iron & tools
+- Access to KiCad (Free PCB design software)
 
 ## 🔧 How to Use  
 1. **Download KiCad** (if you don’t have it): [kicad.org](https://www.kicad.org)  
