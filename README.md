@@ -26,7 +26,7 @@
 
 ## 📺 Watch the Full Tutorial  
 [![YouTube Thumbnail](https://img.shields.io/badge/YouTube-Watch%20Now-red)](https://youtu.be/TuUUNz7IGRk)  
-Learn how to assemble and troubleshoot the circuit in the **[full video guide](https://youtube.com/yourvideolink)** on the **TeknoTrek** channel!  
+Learn how to assemble and troubleshoot the circuit in the **[full video guide](https://youtu.be/TuUUNz7IGRk)** on the **TeknoTrek** channel!  
 
 ## ❓ FAQ  
 **Q: Can I modify the PCB for better performance?**  
