@@ -22,7 +22,7 @@
 2. Clone this repo or download the `.zip` file.  
 3. Open the `.kicad_pro` file in KiCad to modify the design.  
 4. Check the **BOM** for required components.  
-5. Watch the **[assembly tutorial on YouTube](https://youtube.com/yourvideolink)** for step-by-step guidance.  
+5. Watch the **[assembly tutorial on YouTube](https://youtu.be/TuUUNz7IGRk)** for step-by-step guidance.  
 
 ## 📺 Watch the Full Tutorial  
 [![YouTube Thumbnail](https://img.shields.io/badge/YouTube-Watch%20Now-red)](https://youtu.be/TuUUNz7IGRk)  
