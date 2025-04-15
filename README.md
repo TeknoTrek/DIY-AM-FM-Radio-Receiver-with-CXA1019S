@@ -33,6 +33,25 @@
 [![YouTube Thumbnail](https://img.shields.io/badge/YouTube-Watch%20Now-red)](https://youtu.be/TuUUNz7IGRk)  
 Learn how to assemble and troubleshoot the circuit in the **[full video guide](https://youtu.be/TuUUNz7IGRk)** on the **TeknoTrek** channel!  
 
+---
+
+## 📸 Project Images
+
+![PCB Design](preview_images/pcb-render.png)
+![Assembled Board](preview_images/assembled-board.jpg)
+
+---
+
+## 💬 Questions or Feedback?
+Feel free to open an issue or leave a comment on the [YouTube video](https://youtu.be/TuUUNz7IGRk). I’d love to hear your thoughts and help if you get stuck!
+
+---
+
+## 📡 Tags & Keywords (for SEO)
+`AM radio receiver`, `FM radio project`, `Sony CXA1019S`, `build a radio`, `DIY electronics`, `PCB design`, `KiCad project`, `radio circuit`, `home radio`, `electronics tutorial`, `radio IC`, `radio PCB`, `TeknoTrek`, `radio receiver project`, `electronics for beginners`
+
+---
+
 ## ❓ FAQ  
 **Q: Can I modify the PCB for better performance?**  
 A: Yes! The KiCad files are fully editable. Optimize traces or add filters as needed.  
