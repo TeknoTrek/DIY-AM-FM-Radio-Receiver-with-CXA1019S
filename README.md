@@ -68,4 +68,4 @@ A: Check AliExpress, eBay, or local electronics stores.
 
 📢 **Disclaimer**: This is an open-source project. Use at your own risk.  
 
-#electronics #diy #radio #cxA1019s #pcbdesign #kicad #amfmradio #engineering #teknopatik 
+#electronics #diy #radio #cxA1019s #pcbdesign #kicad #amfmradio #engineering #teknopatik  
