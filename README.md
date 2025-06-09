@@ -1,6 +1,6 @@
 # DIY AM/FM Radio Receiver with Sony CXA1019S - KiCad Project  
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/DIY-AM-FM-Radio-Receiver-with-CXA1019S?style=social)](https://github.com/yourusername/DIY-AM-FM-Radio-Receiver-with-CXA1019S)  
+[![GitHub stars](https://img.shields.io/github/stars/TeknoTrek/DIY-AM-FM-Radio-Receiver-with-CXA1019S?style=social)](https://github.com/TeknoTrek/DIY-AM-FM-Radio-Receiver-with-CXA1019S)  
 [![YouTube Video](https://img.shields.io/badge/Watch-Tutorial-red)](https://youtu.be/TuUUNz7IGRk)  
 
 🚀 **Build your own high-quality AM/FM radio receiver** using the **Sony CXA1019S IC**! This repository contains the complete **KiCad PCB design**, schematic, and BOM for a powerful DIY radio project.  
